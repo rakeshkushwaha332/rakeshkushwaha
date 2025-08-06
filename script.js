@@ -53,9 +53,9 @@ const projectsData = {
         title: 'DevFolio – Personal Portfolio Website',
         description: 'A responsive web application designed to showcase projects, skills, and professional experience. Built with modern web technologies to create an engaging and interactive portfolio experience.',
         images: [
-            '/images/Portfolio.png',
-            '/images/project_portfolio.png',
-            '/images/getintuoch.png'
+            'images/Portfolio.png',
+            'images/project_portfolio.png',
+            'images/getintuoch.png'
 
         ],
         features: [
@@ -74,10 +74,10 @@ const projectsData = {
         title: 'WonderLust – Airbnb Clone',
         description: 'A full-stack web application that replicates Airbnb functionality, allowing users to explore, list, and book stays worldwide. Features comprehensive booking system with payment integration.',
         images: [
-            '/images/Homepage.png',
-            '/images/show_hotel.png',
-            '/images/my_booking.png',
-            '/images/new_listing.png'
+            'images/Homepage.png',
+            'images/show_hotel.png',
+            'images/my_booking.png',
+            'images/new_listing.png'
             
 
         ],
@@ -97,10 +97,10 @@ const projectsData = {
         title: 'AgriStack – Open Source Agriculture Platform',
         description: 'A MERN stack web application developed during a hackathon to empower farmers through digitized agricultural data and services. Focuses on providing valuable insights and tools for modern farming.',
         images: [
-            '/images/agrifusion_home.png',
-            '/images/agrifusion_about.png',
-            '/images/agrifustion_map.png',
-            '/images/agristack_login.png'
+            'images/agrifusion_home.png',
+            'images/agrifusion_about.png',
+            'images/agrifustion_map.png',
+            'images/agristack_login.png'
         ],
         features: [
             'Farmer profile management',
